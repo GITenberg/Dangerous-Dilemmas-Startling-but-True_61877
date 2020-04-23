@@ -1,0 +1,33 @@
+_repo: Dangerous-Dilemmas-Startling-but-True_61877
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Peddie, James Anderson
+    gutenberg_agent_id: '51656'
+    url: http://www.gutenberg.org/2009/agents/51656
+    wikipedia: https://en.wikipedia.org/wiki/James_Peddie_(author)
+description: ''
+gutenberg_issued: '2020-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: 'The origin of "Dangerous dilemmas" -- The Christmas wine-hamper
+  fraud -- My first and only appearance as an auctioneer -- The two mysterious dominos
+  -- The fifteen postage-stamp puzzle -- A head defeat; an attempt to win the Cambridgeshire
+  -- The strange disappearance and stranger recovery of the countess''s diamonds --
+  Cremorne: a romance of the derby -- How to satisfy one''s creditors with waste paper
+  -- Lord Seamord''s false funeral -- Taking a mean advantage of a fire -- The attempted
+  murder in the air -- My two matches, or Waterloo avenged -- Unfortunate postage-stamp
+  -- The silver gauntlet -- My revenges at billiards.'
+title: 'Dangerous Dilemmas: Startling but True'
+url: http://www.gutenberg.org/ebooks/61877
